@@ -37,6 +37,9 @@ end
 
 puts "done"
 
+#OR THIS...
+
+
 count = 1
 client.search('new listing', result_type: "recent").take(Integer(500)).collect do |tweet|
     puts "Count              Tweet URl                 Username                                    tweet"
