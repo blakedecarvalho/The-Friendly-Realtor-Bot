@@ -1,0 +1,1 @@
+Please look at code files SEARCH.rb for hash explanations.
